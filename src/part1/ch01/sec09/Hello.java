@@ -1,4 +1,4 @@
-package ch01.sec09;
+package part1.ch01.sec09;
 
 public class Hello {
 

@@ -1,4 +1,4 @@
-package ch03.sec04;
+package part1.ch03.sec04;
 
 public class AccuracyExample1 {
 	public static void main(String[] args) {

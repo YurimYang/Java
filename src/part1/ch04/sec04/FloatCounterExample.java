@@ -1,4 +1,4 @@
-package ch04.sec04;
+package part1.ch04.sec04;
 
 public class FloatCounterExample {
     public static void main(String[] args) {

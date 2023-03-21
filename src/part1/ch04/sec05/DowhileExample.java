@@ -1,4 +1,4 @@
-package ch04.sec04.sec05;
+package part1.ch04.sec05;
 
 import java.util.Scanner;
 

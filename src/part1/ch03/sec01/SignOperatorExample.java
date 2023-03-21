@@ -1,4 +1,4 @@
-package ch03.sec01;
+package part1.ch03.sec01;
 
 public class SignOperatorExample {
 	public static void main(String[] args) {
