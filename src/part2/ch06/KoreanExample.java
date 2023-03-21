@@ -8,7 +8,7 @@ public class KoreanExample {
         System.out.println(k1.ssn);
         System.out.println();
 
-        Korean k2 = new Korean("양유림", "000601-1211457");
+        Korean k2 = new Korean("양유림", "040119-1211457");
         System.out.println(k2.nation);
         System.out.println(k2.name);
         System.out.println(k2.ssn);
